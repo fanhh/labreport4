@@ -21,7 +21,7 @@ step 7
 key pressed: ```:e ListExamples.java``` ```<UP><UP><UP><UP><UP><UP><Right><Right><Right> <Right><Right>``` ```i``` ```<delete>2``` ```ese``` ```:wq<enter>```
 ![Image](step7.png)
 open the editor on the java file and shift up 6 times and to the right 5 time and enter the insert command and delete 
-the 1 and enter 2 then ```ese`` to exit out and then enter ```:wq``` to save and quit editing
+the 1 and enter 2 then ```ese``` to exit out and then enter ```:wq``` to save and quit editing
 
 step 8
 key pressed: ```:e test.sh``` ```!bash test.sh```
