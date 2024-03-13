@@ -7,14 +7,14 @@ In step 4, I utilized the SSH command by entering ```ssh x6ding@ieng6.ucsd.edu``
 step 5
 key pressed: ```git clone git@github.com:fanhh/lab7.git```
 ![Image](step5.png)
-For step 5, I executed the command git clone git@github.com:fanhh/lab7.git. This command cloned the repository into my virtual machine, creating a local copy of the lab7 project. Cloning the repository allowed me to work on the project files locally on the virtual machine, facilitating easier access and manipulation of the project's files.
+For step 5, I executed the command ```git clone git@github.com:fanhh/lab7.git```. This command cloned the repository into my virtual machine, creating a local copy of the lab7 project. Cloning the repository allowed me to work on the project files locally on the virtual machine, facilitating easier access and manipulation of the project's files.
 
 
 
 step 6
 key pressed: ```vim lab7/*```  ```:e test.sh``` ```!bash test.sh```
 ![Image](step6.png)
-During step 6, I navigated to the lab7 directory and ran ```vim lab7/* :e test.sh !bash test.sh```. This sequence of commands opened the Vim editor within the context of the lab7 repository. I then used the :e test.sh command to edit the test.sh script file directly in Vim. After making the necessary changes or reviews, I executed !bash test.sh from within Vim, which runs the script in the Bash shell. Running the test.sh script allowed me to execute the automated tests defined within it, verifying the functionality and correctness of the lab7 project directly from the Vim editor.
+During step 6, I navigated to the lab7 directory and ran ```vim lab7/* :e test.sh !bash test.sh```. This sequence of commands opened the Vim editor within the context of the lab7 repository. I then used the ```:e test.sh``` command to edit the test.sh script file directly in Vim. After making the necessary changes or reviews, I executed !bash test.sh from within Vim, which runs the script in the Bash shell. Running the test.sh script allowed me to execute the automated tests defined within it, verifying the functionality and correctness of the lab7 project directly from the Vim editor.
 
 step 7
 key pressed: ```:e ListExamples.java``` ```<UP><UP><UP><UP><UP><UP><Right><Right><Right> <Right><Right>``` ```i``` ```<delete>2``` ```ese``` ```:wq<enter>```
